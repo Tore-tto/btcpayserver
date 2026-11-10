@@ -1253,6 +1253,13 @@
       "crypto":true
    },
    {
+      "name":"Beldex",
+      "code":"BDX",
+      "divisibility":5,
+      "symbol":null,
+      "crypto":true
+   },
+   {
       "name":"YEC",
       "code":"YEC",
       "divisibility":8,
